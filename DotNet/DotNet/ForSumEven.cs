@@ -2,7 +2,7 @@
 
 class ForSumEven
 {
-    static void Main(string[] args)
+    static void Main()
     {
         int n = 5;
         int sum = 0;
