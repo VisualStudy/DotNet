@@ -2,7 +2,7 @@
 
 class DoWhileDemo
 {
-    static void Main(string[] args)
+    static void Main()
     {
         int sum = 0;
 
