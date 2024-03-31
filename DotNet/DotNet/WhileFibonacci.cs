@@ -1,6 +1,4 @@
-﻿using System;
-
-class WhileFibonacci
+﻿class WhileFibonacci
 {
     static void Main()
     {
