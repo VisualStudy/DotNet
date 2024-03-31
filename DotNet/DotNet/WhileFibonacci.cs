@@ -2,7 +2,7 @@
 
 class WhileFibonacci
 {
-    static void Main(string[] args)
+    static void Main()
     {
         int first = 0;
         int second = 1;
