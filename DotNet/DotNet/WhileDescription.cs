@@ -9,6 +9,14 @@ class WhileDescription
         {
             Console.WriteLine("Hello");
             count++;
+            
+        }
+
+        int index = 5;
+        while (index > 0) 
+        {
+            Console.WriteLine($"Hello. {index}");
+            index--;
         }
     }
 }
