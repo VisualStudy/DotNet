@@ -8,4 +8,9 @@
     <StartupObject>DoWhileDemo</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="18_Array\" />
+    <Folder Include="19_Function\" />
+  </ItemGroup>
+
 </Project>
