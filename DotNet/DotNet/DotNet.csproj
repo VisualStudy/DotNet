@@ -5,12 +5,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>DoWhileDemo</StartupObject>
+    <StartupObject>GetSumTwoNumber</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
     <Folder Include="18_Array\" />
-    <Folder Include="19_Function\" />
   </ItemGroup>
 
 </Project>
