@@ -1,6 +1,4 @@
-﻿using System;
-
-class ForSumEven
+﻿class ForSumEven
 {
     static void Main()
     {
