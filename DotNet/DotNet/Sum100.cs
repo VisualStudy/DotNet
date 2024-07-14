@@ -1,6 +1,4 @@
-﻿using System;
-
-class Sum100
+﻿class Sum100
 {
     static void Main()
     {
