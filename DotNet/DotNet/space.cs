@@ -5,5 +5,7 @@ class space
     static void Main()
     {
         ;
+        ;
+        ;
     }
 }
