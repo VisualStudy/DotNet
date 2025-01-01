@@ -10,5 +10,6 @@ class space
         ; ;
         ; ; ;
         ; ;
+        Console.WriteLine(";");
     }
 }
