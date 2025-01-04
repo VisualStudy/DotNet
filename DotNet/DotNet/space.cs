@@ -12,5 +12,6 @@ class space
         ; ;
         Console.WriteLine(";");
         Console.WriteLine("alox");
+        Console.WriteLine("Inox");
     }
 }
