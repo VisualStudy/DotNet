@@ -14,5 +14,6 @@ class space
         Console.WriteLine("alox");
         Console.WriteLine("Inox");
         Console.WriteLine("magnacut");
+        Console.WriteLine("Elmax");
     }
 }
