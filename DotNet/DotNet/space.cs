@@ -15,5 +15,6 @@ class space
         Console.WriteLine("Inox");
         Console.WriteLine("magnacut");
         Console.WriteLine("Elmax");
+        Console.WriteLine("cpm.s30v");
     }
 }
