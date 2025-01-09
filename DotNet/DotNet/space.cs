@@ -16,5 +16,6 @@ class space
         Console.WriteLine("magnacut");
         Console.WriteLine("Elmax");
         Console.WriteLine("cpm.s30v");
+        Console.WriteLine("sleipner");
     }
 }
