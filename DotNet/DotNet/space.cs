@@ -18,5 +18,6 @@ class space
         Console.WriteLine("cpm.s30v");
         Console.WriteLine("sleipner");
         Console.WriteLine("DLC");
+        Console.WriteLine("Diamond Like Carbon");
     }
 }
