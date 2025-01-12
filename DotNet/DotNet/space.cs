@@ -19,6 +19,7 @@ class space
         Console.WriteLine("sleipner");
         Console.WriteLine("DLC");
         Console.WriteLine("Diamond Like Carbon");
-        Console.WriteLine("M698");
+        Console.WriteLine("M698")
+        Console.WriteLine("오라빵!");
     }
 }
