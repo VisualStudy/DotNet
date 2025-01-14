@@ -21,5 +21,6 @@ class space
         Console.WriteLine("Diamond Like Carbon");
         Console.WriteLine("M698");
         Console.WriteLine("오라빵!");
+        Console.WriteLine("victory");
     }
 }
