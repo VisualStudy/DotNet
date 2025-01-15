@@ -22,5 +22,6 @@ class space
         Console.WriteLine("M698");
         Console.WriteLine("오라빵!");
         Console.WriteLine("victory");
+        Console.WriteLine("reddot");
     }
 }
