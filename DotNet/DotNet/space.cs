@@ -24,5 +24,6 @@ class space
         Console.WriteLine("victory");
         Console.WriteLine("reddot");
         Console.WriteLine("bench");
+        Console.WriteLine("para");
     }
 }
