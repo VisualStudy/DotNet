@@ -27,5 +27,6 @@ class space
         Console.WriteLine("para");
 
 
+        Console.WriteLine("precision");
     }
 }
