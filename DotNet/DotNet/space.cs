@@ -25,8 +25,6 @@ class space
         Console.WriteLine("reddot");
         Console.WriteLine("bench");
         Console.WriteLine("para");
-
-
         Console.WriteLine("precision");
     }
 }
