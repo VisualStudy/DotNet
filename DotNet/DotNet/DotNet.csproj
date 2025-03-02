@@ -11,6 +11,7 @@
   <ItemGroup>
     <Folder Include="18_Array\" />
     <Folder Include="01_DotNet\" />
+    <Folder Include="02_VisualStudio\" />
   </ItemGroup>
 
 </Project>
