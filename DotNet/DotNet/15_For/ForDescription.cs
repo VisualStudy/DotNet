@@ -1,6 +1,4 @@
-﻿using System;
-
-class ForDescription
+﻿class ForDescription
 {
     static void Main()
     {
