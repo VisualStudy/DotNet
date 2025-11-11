@@ -1,6 +1,4 @@
-﻿using System;
-
-class ForEven
+﻿class ForEven
 {
     static void Main()
     {
