@@ -1,6 +1,4 @@
-﻿using System;
-
-class ForIfDemo
+﻿class ForIfDemo
 {
     static void Main()
     {
