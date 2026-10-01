@@ -1,6 +1,6 @@
 ﻿using System;
 
-class space
+class SpaceTest
 {
     static void Main()
     {
